@@ -2,7 +2,7 @@ module.exports = {
     apps : [{
       name: "kushling discord bot",
       script: "./index.js",
-      instances: "5",
+      instances: "1",
       env: {
         NODE_ENV: "development",
       },
