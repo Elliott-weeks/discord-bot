@@ -12,6 +12,9 @@ module.exports = {
        \n !nowplaying - Tells you the song currently being played in the queue. \
        \n !isplaying - Tells you if there is a song being played. \
        \n !progress - Shows you how far through the current song is. \
-       \n !clear - Clears all songs from the queue.'); 
+       \n !clear - Clears all songs from the queue. \
+       \n !kush <Weed Strain Name> - Provides a comprehensive description of your searched strain.'
+       
+       ); 
     }
   };

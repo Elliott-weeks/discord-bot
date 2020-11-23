@@ -119,13 +119,9 @@ client.on("message", async message => {
         case "help":
             client.commands.get("help").execute(message);
             break;
-        
-            
-
-
-
-
-
+        case "kush":
+            client.commands.get('kush').execute(message,args);
+            break;          
 
     }
 
